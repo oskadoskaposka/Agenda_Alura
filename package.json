@@ -1,0 +1,26 @@
+{
+  "name": "agenda_alura",
+  "version": "1.0.0",
+  "description": "Repositorio para o curso da alura \"Rest com NodeJS: API com Express e MySQL\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskadoskaposka/Agenda_Alura.git"
+  },
+  "author": "Ale Paduan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskadoskaposka/Agenda_Alura/issues"
+  },
+  "homepage": "https://github.com/oskadoskaposka/Agenda_Alura#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
