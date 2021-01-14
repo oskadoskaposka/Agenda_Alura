@@ -1,0 +1,10 @@
+☐ iniciar um projeto com "npm init"
+☐ instalar o express com "npm i express"
+☐ instalar nodemon para dev "npm i -D nodemon"
+☐ instalar consign para configurar rotas "npm i consign"
+
+☐ Criado os controllers e importados pelo consign no arquivo config
+☐ Vinculado a config no index 
+
+☐ Instalar body-parser para req Post ser lida "npm i body-parser"
+☐ configurar no express o uso da body-parser com o tipo de dado que ela vai receber
