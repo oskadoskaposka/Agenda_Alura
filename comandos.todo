@@ -8,3 +8,10 @@
 
 ☐ Instalar body-parser para req Post ser lida "npm i body-parser"
 ☐ configurar no express o uso da body-parser com o tipo de dado que ela vai receber
+
+☐ Instalar o mysql no node "npm i mysql"
+☐ Criar o banco de dados no mysql
+☐ Criar a conexão com mysql em uma pasta separada
+☐ Editar o index para o site subir só depois de estar conectado
+
+☐ Pode dar erro ao conectar com o banco por causa da versao do mysql node, se isso contecer rodar o script "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'novasenha';"
